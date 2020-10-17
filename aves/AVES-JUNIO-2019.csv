@@ -1,0 +1,212 @@
+FAMILIA,CODIGO,NOMBRE CIENTIFICO,NOMBRE COMUN,STATUS,T-1,T-2,T-3,T-4,T-5,T-6,T-7,T-8,T-9,TOTAL
+ANATIDAE,DENBI,Dendrocygna bicolor,Pato-silbón canelo,Acc,,,,,,,,,,
+ANATIDAE,DENVI,Dendrocygna viduata,Pato-silbon cara blanca,Acc,,,,,,,,,,
+ANATIDAE,DENAU,Dendrocygna autumnalis,Pato-silbón ventrinegro,Acc,,,,,,,,,,
+ANATIDAE,OREME,Oressochen melanopterus,"Huachua, Huallata",Ma,,,,,,,,,,
+ANATIDAE,SARME,Sarkidiornis melanotos,Pato arrocero,Acc,,,,,,,,,,
+ANATIDAE,CALLE,Callonetta leucophrys,Pato de collar,Acc,,,,,,,,,,
+ANATIDAE,LOPSP,Lophonetta specularioides,Pato cordillerano,Ma,,,,,,,,,,
+ANATIDAE,SPAPU,Spatula puna,Pato puna,Ma,,,,,,,,,,
+ANATIDAE,SPADI,Spatula discors,Pato media luna,Mb,,,,,,,,,,
+ANATIDAE,SPACY,Spatula cyanoptera,Pato colorado,R,10,9,12,14,63,,4,36,,148
+ANATIDAE,ANABA,Anas bahamensis,Pato gargantillo,R,10,,,32,,,,,,42
+ANATIDAE,ANAGE,Anas georgica,"Pato jerga, Pisacca",Ma,,,,,,,,,,0
+ANATIDAE,ANAFL,Anas flavirostris,Pato sutro,Ma,,,,,,,,,,0
+ANATIDAE,NOMDO,Nomonyx dominicus,Pato Enmascarado,Acc,,,,,,,,,,
+ANATIDAE,OXYJA,Oxyura jamaicensis,Pato rana o taclón,R,,3,,2,8,,,,,13
+ANATIDAE,ANAPL,Anas platyrhynchos,Pato cabeza verde,H,,,,,,,,,,0
+PHOENICOPTERIDAE,PHOCH,Phoenicopterus chilensis,Parihuana,Ma,,,,,,,,,,0
+PODICIPEDIDAE,ROLRO,Rollandia rolland,Zambullidor pimpollo,R,,,,2,2,,,,,4
+PODICIPEDIDAE,TACDO,Tachybaptus dominicus,Zambullidor enano,Acc,,,,,,,,,,
+PODICIPEDIDAE,PODPO,Podilymbus podiceps,Zambullidor pico grueso,R,,2,,,2,,,,,4
+PODICIPEDIDAE,PODMA,Podiceps major,Zambullidor grande,R,,12,,,6,,,,,18
+PODICIPEDIDAE,PODOC,Podiceps occipitalis,Zambullidor plateado,Ma,,,,,,,,,,0
+COLUMBIDAE,COLLI,Columba livia,"Paloma doméstica, paloma de castilla",R,20,,,,,,,,4,24
+COLUMBIDAE,ZENME,Zenaida meloda,Paloma cuculi,R,2,12,2,4,1,,48,12,93,174
+COLUMBIDAE,ZENAU,Zenaida auriculata,Madrugadora o rabiblanca,R,,,,,,,,,,0
+COLUMBIDAE,COLMI,Columbina minuta,Tortolita menuda,Ml,,,,,,,,,,0
+COLUMBIDAE,COLCR,Columbina cruziana,Tortolita peruana,R,,,,,,,,,75,75
+COLUMBIDAE,METCE,Metriopelia ceciliae,Cascabelita común,Ml,,,,,,,,,,0
+CUCULIDAE,CROSU,Crotophaga sulcirostris,Guardacaballo,R,,,,,,,,,,0
+CUCULIDAE,COCME,Coccyzus melacoryphus,Cuclillo piquioscuro,Acc,,,,,,,,,,
+CAPRIMULGIDAE,CHOAC,Chordeiles acutipennis,Chotacabras trinador,R,,,,,,,,,,0
+APODIDAE,STRZO,Streptoprocne zonaris,Vencejo collar blanco,Ma,,,,,,,,,,0
+APODIDAE,CHAPE,Chaetura pelagica,Vencejo de chimenea,Mb,,,,,,,,,,0
+APODIDAE,AERAN,Aeronautes andecolus,Vencejo andino,Ma,,,,,,,,,,0
+TROCHILIDAE,MYRFA,Myrtis fanny,Picaflor de Fanny,R,,,,,,,,,,0
+TROCHILIDAE,RHOVE,Rhodopis vesper,Colibrí de oasis,Ml,,,,,,,,,,0
+TROCHILIDAE,THACO,Thaumastura cora,Picaflor de cora,R,,,,,,,,,,0
+TROCHILIDAE,AMAAM,Amazilia amazilia,Amazilia costeña,R,,,,2,,,1,,2,5
+RALLIDAE,RALLI,Rallus limicola,Gallinetita chica,Acc,,,,,,,,,,
+RALLIDAE,PORMA,Porphyrio martinica,Polla sultana,R,,,,,,,,,,0
+RALLIDAE,LATJA,Laterallus jamaicensis,Gallinetita negra,R,,,,,,,,,,0
+RALLIDAE,MUSER,Mustelirallus erythrops,Gallinetita pico rojo,Ma,,,,,,,,,,0
+RALLIDAE,PARSA,Pardirallus sanguinolentus,Gallineta común,R,,,,,,,2,,,2
+RALLIDAE,ARACA,Aramides cajaneus,Unchala,Acc,,,,,,,,,,
+RALLIDAE,PORCA,Porzana carolina,Gallineta sora,Mb,,,,,,,,,,0
+RALLIDAE,GALGA,Gallinula galeata,Polla de agua,R,13,8,19,33,41,6,12,54,,186
+RALLIDAE,FULRU,Fulica rufifrons,Gallareta frente roja,R,,,,,,,,,,0
+RALLIDAE,FULGI,Fulica gigantea,"Gallareta gigante , Choca",Ma,,,,,,,,,,0
+RALLIDAE,FULAR,Fulica ardesiaca,"Gallareta andina, Huayno",R,4,3,,4,11,,,,,22
+RALLIDAE,FULLE,Fulica Leucoptera,Gallareta de frente amarilla,Acc,,,,,,,,,,
+CHARADRIIDAE,PLUDO,Pluvialis dominica,Chorlo dorado americano,Mb,,,,,,,,,,0
+CHARADRIIDAE,PLUSQ,Pluvialis squatarola,Chorlo ártico,Mb,,,,,,,,,,0
+CHARADRIIDAE,VANCA,Vanellus cayanus,Avefría pinta,Ma,,,,,,,,,,0
+CHARADRIIDAE,VANRE,Vanellus resplendens,Liquelique,Ma,,,,,,,,,,0
+CHARADRIIDAE,CHAVO,Charadrius vociferus,Chorlo doble collar,R,,,7,4,6,,14,8,,39
+CHARADRIIDAE,CHASE,Charadrius semipalmatus,Chorlo semipalmado,Mb,,,,,,,,,,0
+CHARADRIIDAE,CHANI,Charadrius nivosus,Chorlo nevado,R,,,,,,,,,,0
+HAEMATOPODIDAE,HAEPA,Haematopus palliatus,Ostrero común,R,,,,,33,2,,,,35
+HAEMATOPODIDAE,HAEAT,Haematopus ater,Ostrero negro,R,,,,,,,,,,0
+RECURVIROSTRIDAE,HIMMEX,Himantopus mexicanus,Perrito o cigüeñuela,R,2,,14,,,,,,,16
+RECURVIROSTRIDAE,RECAN,Recurvirostra andina,Avoceta andina,Ma,,,,,,,,,,0
+BURHINIDAE,BURSU,Burhinus superciliaris,Huerequeque,R,,,,,,,,,,0
+SCOLOPACIDAE,BARLO,Bartramia longicauda,Playero de Bartram,Mb,,,,,,,,,,0
+SCOLOPACIDAE,NUMPH,Numenius phaeopus,Zarapito trinador,Mb,,,32,,3,3,,,,38
+SCOLOPACIDAE,LIMHA,Limosa haemastica,Aguja de mar,Mb,,,,,,,,,,0
+SCOLOPACIDAE,AREIN,Arenaria interpres,Vuelvepiedras,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALVI,Aphriza virgata,Chorlo de las rompientes,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALCA,Calidris canutus,Playero de Groenlandia,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALAL,Calidris alba,Playero blanco,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALPU,Calidris pusilla,Playerito semipalmado,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALMA,Calidris mauri,Playerito occidental,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALMI,Calidris minutilla,Playero pico fino,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALBA,Calidris bairdii,Playero de Baird,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALME,Calidris melanotos,Playero pectoral,Mb,,,,,,,,,,0
+SCOLOPACIDAE,CALFE,Calidris ferruginea,Playero zarapito,Mb,,,,,,,,,,0
+SCOLOPACIDAE,ACTMA,Actitis macularius,Playero manchado,Mb,,,,,,,,,,
+SCOLOPACIDAE,CALHI,Calidris himantopus,Playero pata larga,Mb,,,,,,,,,,0
+SCOLOPACIDAE,PHIPU,Philomachus pugnax,Playero Combatiente,H,,,,,,,,,,0
+SCOLOPACIDAE,LIMGR,Limnodromus griseus,Becasina migratoria,Mb,,,,,,,,,,0
+SCOLOPACIDAE,LIMSC,Limnodromus scolopaceus,Becasina pico largo,Mb,,,,,,,,,,0
+SCOLOPACIDAE,GALPA,Gallinago paraguaiae,Becasina sudamericana,Mb,,,,,,,,,,0
+SCOLOPACIDAE,PHATR,Phalaropus tricolor,Falaropo de Wilson,Mb,,,,,,,,,,0
+SCOLOPACIDAE,PHALO,Phalaropus lobatus,Faláropo picofino,S,,,,,,,,,,0
+SCOLOPACIDAE,PHAFU,Phalaropus fulicarius,Faláropo picogrueso,Mb,,,,,,,,,,0
+SCOLOPACIDAE,ACTMA,Actitis macularius,Playero manchado,Mb,,,,,,,,,,0
+SCOLOPACIDAE,TRISO,Tringa solitaria,Playero solitario,Mb,,,,,,,,,,0
+SCOLOPACIDAE,TRIME,Tringa melanoleuca,Pata amarilla mayor,Mb,,,,,,,,,,0
+SCOLOPACIDAE,TRISE,Tringa semipalmata,Playero ala blanca,Mb,,,,,,,,,,0
+SCOLOPACIDAE,TRIFL,Tringa flavipes,Pata amarilla menor,Mb,,,,,,,,,,0
+THINOCORIDAE,THIRU,Thinocorus rumicivorus,Agachona chica,Ma,,,,,,,,,,0
+STERCORAIIDAE,STECH,Stercorarius chilensis,Salteador chileno,S,,,,,,,,,,0
+STERCORAIIDAE,STEPO,Stercorarius pomarinus,Salteador pomarino,Mb,,,,,,,,,,0
+STERCORAIIDAE,STEPA,Stercorarius parasiticus,Salteador parásito,Mb,,,,,,,,,,0
+RHYNCHOPIDAE,RYNNI,Rynchops niger,Rayador,Mb,,,,,248,,,,,248
+LARIDAE,CHRSE,Chroicocephalus serranus,Gaviota serrana,Ma,,,,,1,,,,,1
+LARIDAE,CHRMA,Chroicocephalus maculipennis,Gaviota de capucho café,S,,,,,,,,,,0
+LARIDAE,CHRCI,Chroicocephalus cirrocephalus,Gaviota capucho gris,R,42,57,66,59,6,,,,,230
+LARIDAE,LEUMO,Leucophaeus modestus,Gaviota gris,S,,,,,48,61,,,,109
+LARIDAE,LEUAR,Leucophaeus atricilla,"Gaviota centroamericana, reidora",Mb,,,,,,,,,,0
+LARIDAE,LEUPI,Leucophaeus pipixcan,Gaviota de Franklin,Mb,,,,,,,,,,0
+LARIDAE,LARBE,Larus belcheri,Gaviota peruana,Ml,,5,,,324,27,,,,356
+LARIDAE,LARDO,Larus dominicanus,Gaviota dominicana,Ml,,,,,235,63,4,,,302
+LARIDAE,STELO,Sternula lorata,Gaviotín peruano,Ml,,,,,,,,,,0
+LARIDAE,PHASI,Phaetusa simplex,Gaviotin picudo,Acc,,,,,,,,,,
+LARIDAE,GELNI,Gelochelidon nilotica,Gaviotín picogrueso,Mb,,,,,,,,,,0
+LARIDAE,LARIN,Larosterna inca,Zarcillo,Ml,,,,,11,51,,,,62
+LARIDAE,CHLNI,Chlidonias niger,Gaviotín negro,Mb,,,,,,,,,,0
+LARIDAE,STEHDO,Sterna hirundo,Gaviotín común,Mb,,,,,,,,,,0
+LARIDAE,STEPA,Sterna paradisaea,Gaviota del artico,S,,,,,,,,,,0
+LARIDAE,STEHEA,Sterna hirundinacea,Gaviotín sudamericano,Mb,,,,,,,,,,0
+LARIDAE,STETR,Sterna trudeaui,Gaviotin corona gris,Mb,,,,,,,,,,0
+LARIDAE,THAEL,Thalasseus elegans,Gaviotín elegante,Mb,,,,,,,,,,0
+LARIDAE,THASA,Thalasseus sandvicensis,Gaviotín patas negras,Mb,,,,,,,,,,0
+LARIDAE,THAMA,Thalasseus maximus,Gaviotín real,Mb,,,,,,,,,,0
+SPHENISCIDAE,SPHHU,Spheniscus humboldti,Pingüino de humboldt,S,,,,,,,,,,0
+DIOMEDEIDAE,PHOIR,Phoebastria  irrorata,Albatros de las galápagos,Mb,,,,,,,,,,0
+PROCELLARIIDAE,MACGI,Macronectes giganteus,Petrel gigante antártico,S,,,,,,,,,,0
+PROCELLARIIDAE,DAPCA,Daption capense,Petrel damero,S,,,,,,,,,,0
+PROCELLARIIDAE,PACBE,Pachyptila belcheri,Petrel azul picofino,S,,,,,,,,,,0
+PROCELLARIIDAE,PUFGR,Ardenna grisea,Pardela oscura,S,,,,,,,,,,0
+PROCELLARIIDAE,PELGA,Pelecanoides garnotii,Potoyunco Peruano,Acc,,,,,,,,,,
+HYDROBATIDAE,OCEOC,Oceanites oceanicus,Golondrina de mar de wilson,S,,,,,,,,,,0
+HYDROBATIDAE,OCEMA,Oceanodroma markhami,Golondrina de mar de Markham,S,,,,,,,,,,0
+HYDROBATIDAE,OCEHO,Oceanodroma hornbyi,Golondrina de mar de collar,Ma,,,,,,,,,,0
+CICONIIDAE,JABMI,Jabiru mycteria,Cigüeña jabirú,Acc,,,,,,,,,,
+CICONIIDAE,MYCAM,Mycteria americana,Cigüeña gabán,Acc,,,,,,,,,,
+FREGATIDAE,FREMA,Fregata magnificens,Avefragata magnifica,Acc,,,,,,,,,,
+SULIDAE,SULNE,Sula nebouxii,Piquero de Pata Azul,Mb,,,,,,,,,,0
+SULIDAE,SULVA,Sula variegata,Piquero común,Ml,,,,,,43,,,,43
+PHALACROCORACIDAE,PHAGA,Phalacrocorax gaimardi,Chuita,Ml,,,,,,,,,,0
+PHALACROCORACIDAE,PHABR,Phalacrocorax brasilianus,"Cushuri, cormorán, cuervo de mar",R,1,164,,85,117,,27,,,394
+PHALACROCORACIDAE,PHABO,Phalacrocorax boungainvillii,Guanay,Ml,,,,,,10,,,,10
+PELECANIDAE,PELOC,Pelecanus occidentalis,Pelícano marrón,Mb,,,,,,,,,,0
+PELECANIDAE,PELTH,Pelecanus thagus,Pelícano peruano,Ml,,,,,,7,,,,7
+ARDEIDAE,IXOEX,Ixobrychus exilis,Garcita leonada,R,,,,1,,,,2,,3
+ARDEIDAE,NYCNY,Nycticorax nycticorax,Garza huaco,R,,17,2,13,5,,,7,,44
+ARDEIDAE,NYCVI,Nyctanassa violacea,Huaco de corona amarilla,R,,2,,3,,,,,,5
+ARDEIDAE,BUTST,Butorides striata,Garza tamanquita,R,,1,1,,,,,3,,5
+ARDEIDAE,BUBIB,Bubulcus ibis,Garza bueyera,R,,660,,,,,,,,660
+ARDEIDAE,ARDCO,Ardea cocoi,Garza cuca,Ma,,1,,,,,,,,1
+ARDEIDAE,ARDAL,Ardea alba,Garza grande,R,1,3,2,3,,,,,,9
+ARDEIDAE,EGRTR,Egretta tricolor,"Garza Pechiblanca, Garza tricolor",Ml,,,,,,,,,1,1
+ARDEIDAE,EGRTH,Egretta thula,Garza blanca chica,R,,2,5,1,66,,5,,,79
+ARDEIDAE,EGRCA,Egretta caerulea,Garza azul,R,,5,,,21,3,,,1,30
+THRESKIONITHIDAE,PLERI,Plegadis ridgwayi,Yanavico,R,,205,1,,4,,7,2,,219
+THRESKIONITHIDAE,PLAAJ,Platalea ajaja,Espatula rosada,Acc,,1,,,,,,,,1
+CATHARTIDAE,CORAT,Coragyps atratus,Gallinazo cabeza negra,R,,36,37,10,23,,57,14,413,590
+CATHARTIDAE,CATAU,Cathartes aura,Gallinazo cabeza roja,Ml,,,,,,,,,,0
+PANDIONIDAE,PANHA,Pandion haliaetus,Águila pescadora,Mb,,,,,,,,,,0
+ACCIPITRIDAE,CIRCI,Circus cinereus,Gavilán cenizo,Ml,,,,,,,,,,0
+ACCIPITRIDAE,BUTME,Buteogallus meridionalis,Gavilán de campo,Ma,,,,,,,,,,0
+ACCIPITRIDAE,PARUN,Parabuteo unicinctus,Gavilán oscuro acanalado,R,,1,1,,,,1,1,1,5
+ACCIPITRIDAE,GERPO,Geranoaetus polyosoma,Aguilucho comun,Ml,,,,,,,,,,0
+ACCIPITRIDAE,GERME,Geranoaetus melanoleucus,Aguilucho grande,Ma,,,,,,,,,,0
+ACCIPITRIDAE,BUTPL,Buteo platypterus,Aguilucho de ala ancha,Mb,,,,,,,,,,0
+TYTONIDAE,TYTAL,Tyto alba,Lechuza de los campanarios,R,,,,,,,,,,0
+STRIGIDAE,ATHCU,Athene cunicularia,Lechuza de los arenales,R,,,,,,,3,,,3
+STRIGIDAE,ASIFL,Asio flammeus,Lechuza de Oreja Corta,Acc,,,,,,,,,,
+ALCEDINIDAE,CHLAM,Chloroceryle americana,Martín pescador,Ml,,,,,,,,,,0
+FALCONIDAE,CARPL,Caracara plancus,Carancho,Acc,,,,,,,,,,
+FALCONIDAE,MILCH,Milvago chimachima,Cara cara cabeza amarilla,Acc,,,,,,,,,,
+FALCONIDAE,FALSP,Falco sparverius,Cernícalo,R,,1,,,,,,,,1
+FALCONIDAE,FALFE,Falco femoralis,"Halcón aplomado, Halcón perdiguero",Ma,,,,,,,,,,0
+FALCONIDAE,FALPE,Falco peregrinus,Halcón Peregrino,Mb,,,,,,,,,,0
+PSITTACIDAE,BROVE,Brotogeris versicolorus,"Pihuicho, Perico ala blanca",Ml,,,,,,,,,,0
+PSITTACIDAE,FORCO,Forpus coelestis,Perico esmeralda,Ml,,,,,,,,,,0
+PSITTACIDAE,PSIWA,Psittacara wagleri,Cotorra de wagler,Ml,,,,,,,,,,0
+PSITTACIDAE,PSIER,Psittacara erythrogenys,Cotorra cabeza roja,Ml,,,,,,,,,,0
+FURNARIIDAE,GEOPE,Geositta peruviana,Pampero peruano,Ml,,,,,,,,,,0
+FURNARIIDAE,PHLME,Phleocryptes melanops,Totorero,R,1,1,,,,,5,16,4,27
+TYRANNIDAE,CAMOB,Camptostoma obsoletum,Mosqueta silbadora,R,,,,,,,,,,0
+TYRANNIDAE,TACRU,Tachuris rubrigastra,Siete colores de la totora,R,,1,,2,1,,,3,1,8
+TYRANNIDAE,MYIFA,Myiophobus fasciatus,Mosqueta modesta,Ml,,,,,,,,,,0
+TYRANNIDAE,PYRRU,Pyrocephalus rubinus,"Turtupillín, putilla",R,,,1,,2,,3,,5,11
+TYRANNIDAE,LESOR,Lessonia oreas,Negrito,R,,,,,,,,,,0
+TYRANNIDAE,MUSMA,Muscisaxicola maclovianus,Dormilona cabeza oscura,Ml,,,,,,,,,,0
+TYRANNIDAE,MUSBR,Muscigralla brevicauda,Dormilona cola corta,R,,,,,,,,,,0
+TYRANNIDAE,TYRME,Tyrannus melancholicus,Tirano tropical o pepite,R,,,,,2,,2,,,4
+TYRANNIDAE,TYRSA,Tyrannus savana,Atrapamoscas cola de tijera,Acc,,,,,,,,,,
+TYRANNIDAE,TYRTY,Tyrannus tyrannus,Atrapamoscas migratorio,Mb,,,,,,,,,,0
+CORVIDAE,CYAMY,Cyanocorax mystacalis,Urraca,Acc,,,,,,,,,,
+HIRUNDINIDAE,PYGCY,Pygochelidon cyanoleuca,Santa Rosita,R,6,31,,9,35,,13,29,12,135
+HIRUNDINIDAE,PROTA,Progne tapera,Martin pechipardo,Acc,,,,,,,,,,
+HIRUNDINIDAE,PROSU,Progne subis,Golondrina purpúrea,Mb,,,,,,,,,,0
+HIRUNDINIDAE,PROEL,Progne elegans,"Golondrina negra, Golondrina del Sur",Acc,,,,,,,,,,
+HIRUNDINIDAE,RIPRI,Riparia riparia,Golondrina ribereña,Ma,,,,,,,,,,0
+HIRUNDINIDAE,HIRRU,Hirundo rustica,Golondrina migratoria,Mb,,,,,,,,,,0
+HIRUNDINIDAE,PETRU,Petrochelidon rufocollaris,Golondrina de cuello castaño,Ml,,,,,,,,,,0
+TROGLODYTIDAE,TROAE,Troglodytes aedon,Cucarachero,R,,4,,,,,1,7,15,27
+TURDIDAE,TURCH,Turdus chiguanco,"Chiguanco, zorzal",Ml,,,,,,,,,,0
+MIMIDAE,MIMLO,Mimus longicaudatus,Chisco,R,,,,1,,,2,,1,4
+MOTACILLIDAE,ANTPE,Anthus peruvianus,"Chichirre, cachirla amarilla",R,,,,,,,,,,0
+THRAUPIDAE,CONCI,Conirostrum cinereum,Mielerito gris,R,,,,,,,,,,0
+THRAUPIDAE,SICFL,Sicalis flaveola,"Botón de oro, Chirigüe azafranado",Ml,,,,,,,,,,0
+THRAUPIDAE,SICLU,Sicalis luteola,Triguero común,R,,,,,,,,15,,15
+THRAUPIDAE,SICRA,Sicalis raimondii,"Trile bajoandino, Chirigüe de Raimondi",Ml,,,,,,,,,,0
+THRAUPIDAE,VOLJA,Volatinia jacarina,Saltapalito,R,,,,,,,,3,5,8
+THRAUPIDAE,SPOPE,Sporophila peruviana,Espiguero pico de loro,Ml,,,,,,,,,,0
+THRAUPIDAE,SPOTE,Sporophila telasco,Espiguero corbatón,Ml,,,,,,,,,,0
+THRAUPIDAE,SPOSI,Sporophila simplex,Espiguero simple,Ml,,,,,,,,,,0
+THRAUPIDAE,SALST,Saltator striatipectus,Saltador listado,Ml,,,,,,,,,,0
+THRAUPIDAE,COEFL,Coereba flaveola,Mielerito,Ml,,,,,,,,,,0
+THRAUPIDAE,THREP,Thraupis episcopus,"Violinista celeste, Luisa",Ml,,,,,,,,,,0
+THRAUPIDAE,THRPA,Thraupis palmarum,"Violinista verde, Violinista de Palmer",Acc,,,,,,,,,,
+EMBERIZIDAE,ZONCA,Zonotrichia capensis,"Gorrión americano, Pichisanka, Chingolo",R,,,,,,,,,,0
+ICTERIDAE,DIVWA,Dives warszewiczi,"Tordo grande, tordo negro",Ml,,,,3,,,3,1,2,9
+ICTERIDAE,MOLBO,Molothrus bonariensis,Tordo parásito,R,,,,,,,,,3,3
+ICTERIDAE,CHRIC,Chrysomus icterocephalus,Tordo amazónico cabeza amarilla,R,,,,,5,,,,,5
+ICTERIDAE,STURBE,Sturnella bellicosa,"Huanchaco, Pecho colorado",R,,1,,,,,20,7,1,29
+FRINGILLIDAE,SPIMA,Spinus magellanicus,Jilguero cabeza negra,R,,,,,,,,,,0
+PASSERIDAE,PASDO,Passer domesticus,Gorrion europeo,R,4,,,6,,,,,32,42

@@ -1,0 +1,133 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+html, body, #mapid {
+    height: 100%;
+    width: 100vw;
+}
+.overlay {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2); 
+    border-radius: 5px;
+}
+.leyenda {
+    position: absolute;
+    right: 10px;
+    z-index: 2000;
+    margin: 10px;
+    padding: 6px;
+    max-width: 400px;
+    border-radius: 5px;
+    padding: 6px 10px;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.leyenda_linea { 
+    width: 90px;
+    height: 15px;
+}
+.leyenda_valores {
+    display: flex;
+    align-items: baseline;
+}
+
+.leyenda_valor {
+    padding-left: 15px;
+}
+
+.slide {
+  position: absolute;
+  z-index: 2000;
+  margin: 10px;
+  padding: 6px;
+  max-width: 400px;
+  left: -363px;
+  height: 95%;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  overflow: scroll;
+}
+.slide.in{
+    left: 0px;
+}
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+    background: #eee; 
+}
+th { 
+    background: #333; 
+    color: white; 
+    font-weight: bold; 
+}
+td, th { 
+    padding: 6px; 
+    border: 1px solid #ccc; 
+    text-align: left;
+    font-size: small; 
+}
+.slide .close { 
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    width: 31px;
+    height: 31px;
+    color: #333;
+    font-size: 25px;
+    line-height: 1em;
+    text-align: center;
+    background: white;
+    -webkit-border-radius: 16px;
+    border-radius: 16px;
+    cursor: pointer;
+    z-index: 8;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+	/* Force table to not be like tables anymore */
+	table, thead, tbody, th, td, tr { 
+		display: block; 
+	}
+	
+	/* Hide table headers (but not display: none;, for accessibility) */
+	thead tr { 
+		position: absolute;
+		top: -9999px;
+		left: -9999px;
+	}
+	
+	tr { border: 1px solid #ccc; }
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee; 
+		position: relative;
+		padding-left: 50%; 
+	}
+	
+	td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+	
+	/*
+	Label the data
+	*/
+	td:nth-of-type(1):before { content: "Nombre Común"; }
+	td:nth-of-type(2):before { content: "Estado"; }
+	td:nth-of-type(3):before { content: "Cantidad"; }
+}
