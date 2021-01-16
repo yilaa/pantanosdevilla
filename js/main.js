@@ -36,7 +36,7 @@ function processData(zonas) {
 function createPropSymbols(timestamps, zonas) {
         
     zonasaves = L.geoJson(zonas).addTo(map);
-    //updatePropSymbols(timestamps[0]);
+    // updatePropSymbols(timestamps[0]);
     
 }
 
@@ -105,20 +105,12 @@ changeMapFunction = function (label) {
     updateLegend (mes.weightporserie)
 }
 
-function createSlider (meses) {
-    var sliderControl = L.control.timelineSlider({
-        timelineItems: meses, 
-        changeMap: changeMapFunction,
-        labelWidth: '60px',
-        labelFontSize: '12px',
-    })
-    sliderControl.addTo(map);
-}
-
 var info = processData(zonas)
 createPropSymbols(info.timestamps, zonas)
-createSlider(info.timestamps);
 map.fitBounds(zonasaves.getBounds());
+mes = updatePropSymbols(info.timestamps[0])
+updateLegend (mes.weightporserie)
+
 
 var zonaActiva
 zonasaves.on('popupopen', function (e) {
@@ -137,7 +129,7 @@ async function MostrarAves (timestamp, name) {
     contenido.innerHTML=''
     datos[0].innerHTML = ''
     datos[1].innerHTML = ''
-    datos[0].innerHTML = `${timestamp}`
+    datos[0].innerHTML = `Periodo: ${timestamp}`
     datos[1].innerHTML = `Zona: ${name}`
     $('#slide').addClass('in');
     const response = await fetch(`js/${timestamp}-${name}.csv`)
@@ -163,3 +155,15 @@ function cerrar(){
         $('#slide').removeClass('in');
     };
 }
+
+// Crear el seleccionador 
+info.timestamps.forEach(function(timestamp) {
+    $('#tiempo').append(`<option value='${timestamp}'>${timestamp}</option>`)
+})
+
+$(document).on('change','#tiempo', function(e){
+    var newmes = e.target.value
+    mes = updatePropSymbols (newmes)
+    updateLegend (mes.weightporserie)
+})
+

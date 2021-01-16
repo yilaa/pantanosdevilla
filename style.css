@@ -10,35 +10,54 @@ html, body, #mapid {
     background: rgba(255, 255, 255, 0.8);
     box-shadow: 0 0 15px rgba(0,0,0,0.2); 
     border-radius: 5px;
-}
-.leyenda {
-    position: absolute;
-    right: 10px;
     z-index: 2000;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
     margin: 10px;
     padding: 6px;
-    max-width: 400px;
-    border-radius: 5px;
-    padding: 6px 10px;
-    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+.titulo {
+    position: absolute;
+    top: 3px;
+    right: 10px;
+    max-width: 500px;
+}
+.titulo p{
+    font-size: medium;
+}
+h1 {
+    font-size: larger;
+}
+.informacion {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 2000;
     font-size: small;
+    display: flex;
+    justify-content: space-between;
+}
+.leyenda {
+    max-width: 300px;
+    border-radius: 5px;
+    padding: 0px 10px;
+}
+
+.leyenda p{
+    margin: 0.5em;
 }
 .leyenda_linea { 
-    width: 90px;
-    height: 15px;
+    width: 50px;
 }
 .leyenda_valores {
     display: flex;
     align-items: baseline;
+    justify-content: space-between;
 }
-
-.leyenda_valor {
-    padding-left: 15px;
+.seleccionador {
+    max-width: 500px;
 }
-
 .slide {
   position: absolute;
-  z-index: 2000;
   margin: 10px;
   padding: 6px;
   max-width: 400px;
@@ -46,6 +65,8 @@ html, body, #mapid {
   height: 95%;
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   overflow: scroll;
+  z-index: 3000;
+  background: rgba(255, 255, 255, 0.9);
 }
 .slide.in{
     left: 0px;
@@ -90,44 +111,20 @@ td, th {
 @media 
 only screen and (max-width: 760px),
 (min-device-width: 768px) and (max-device-width: 1024px)  {
-
-	/* Force table to not be like tables anymore */
-	table, thead, tbody, th, td, tr { 
-		display: block; 
-	}
-	
-	/* Hide table headers (but not display: none;, for accessibility) */
-	thead tr { 
-		position: absolute;
-		top: -9999px;
-		left: -9999px;
-	}
-	
-	tr { border: 1px solid #ccc; }
-	
-	td { 
-		/* Behave  like a "row" */
-		border: none;
-		border-bottom: 1px solid #eee; 
-		position: relative;
-		padding-left: 50%; 
-	}
-	
-	td:before { 
-		/* Now like a table header */
-		position: absolute;
-		/* Top/left values mimic padding */
-		top: 6px;
-		left: 6px;
-		width: 45%; 
-		padding-right: 10px; 
-		white-space: nowrap;
-	}
-	
-	/*
-	Label the data
-	*/
-	td:nth-of-type(1):before { content: "Nombre Común"; }
-	td:nth-of-type(2):before { content: "Estado"; }
-	td:nth-of-type(3):before { content: "Cantidad"; }
+    h1 {
+        font-size: large;
+        margin: 0px;
+    }
+    .titulo {
+        max-width: 280px;
+        right: 3px;
+    }
+    .titulo p{
+        margin-top: 5px;
+        margin-bottom: 0px;
+        font-size: small;
+    }
+    /* .leyenda h3{
+        margin: 9px 0px;
+    } */
 }
